@@ -1,6 +1,0 @@
-{
-  "name": "VioKanban",
-  "description": "A modern, responsive Kanban TODO web app with isolated per-user localStorage persistence, sticky note tasks, custom boards, and device session tracking.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
